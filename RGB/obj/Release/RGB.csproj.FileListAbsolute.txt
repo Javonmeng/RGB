@@ -1,0 +1,9 @@
+C:\My_Files\大三下\数字图像处理\GET_RGB\RGB\RGB\bin\Release\RGB.exe.config
+C:\My_Files\大三下\数字图像处理\GET_RGB\RGB\RGB\bin\Release\RGB.exe
+C:\My_Files\大三下\数字图像处理\GET_RGB\RGB\RGB\bin\Release\RGB.pdb
+C:\My_Files\大三下\数字图像处理\GET_RGB\RGB\RGB\obj\Release\RGB.Form1.resources
+C:\My_Files\大三下\数字图像处理\GET_RGB\RGB\RGB\obj\Release\RGB.Properties.Resources.resources
+C:\My_Files\大三下\数字图像处理\GET_RGB\RGB\RGB\obj\Release\RGB.csproj.GenerateResource.Cache
+C:\My_Files\大三下\数字图像处理\GET_RGB\RGB\RGB\obj\Release\RGB.exe
+C:\My_Files\大三下\数字图像处理\GET_RGB\RGB\RGB\obj\Release\RGB.pdb
+C:\My_Files\大三下\数字图像处理\GET_RGB\RGB\RGB\obj\Release\RGB.csprojResolveAssemblyReference.cache
